@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("second Hello,Git!");
         System.out.println("hot-fix third Hello,Git!");
         System.out.println("hot-fix _4 演示合并冲突 Hello,Git!");
+        System.out.println("Master Test!");
     }
 }
